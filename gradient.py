@@ -81,4 +81,5 @@ newton=Newton(-5)
 newton.get_f()        
         
 #gradient=Gradient(0,0)
+#gradient=Gradient(1,0)
 #gradient.get_f()
